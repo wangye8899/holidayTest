@@ -51,12 +51,12 @@ public class linklist {
                 current = current.next;
             }
         }
-        System.out.println("找到相应的值"+current.value);
+        System.out.println("找到相应的�?"+current.value);
     }
 
     public void delete(int key)
     {
-        System.out.println("您需要删除的是'"+key+"'号节点");
+        System.out.println("您需要删除的�?'"+key+"'号节�?");
         link current = first;
         link previous = first;
         while(current.id!=key)
@@ -101,7 +101,7 @@ public class linklist {
         {
             l.deletelist();
         }
-        System.out.println("删除后:");
+        System.out.println("删除�?:");
         l.deletelist();
     }
 }
