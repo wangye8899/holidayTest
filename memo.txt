@@ -1,0 +1,13 @@
+/*
+ * @Author: HH.wangye 
+ * @Date: 2018-01-18 09:23:34 
+ * @Last Modified by:   HH.wangye 
+ * @Last Modified time: 2018-01-18 09:23:34 
+ */
+
+
+备忘文档：用于记录一些编程或者查资料时遇到并解决的小问题，单独记录于此：
+
+1.vscode显示上面工具栏
+命令行切换出来 关键字 menu
+F1 or shift+ctrl+p 切换出命令行，然后输入menu 有个view:toggle Menu bar 的功能，没文档这个确实要自个找。
