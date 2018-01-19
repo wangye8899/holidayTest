@@ -4,12 +4,6 @@
  * @Last Modified by: HH.wangye
  * @Last Modified time: 2018-01-19 10:45:42
  */
-/*
- * @Author: HH.wangye 
- * @Date: 2018-01-18 09:23:52 
- * @Last Modified by:   HH.wangye 
- * @Last Modified time: 2018-01-18 09:23:52 
- */
 
 # holidayTest
 ## 寒假期间打算重新复习一下数据结构，夯实一下自己的算法基础。
