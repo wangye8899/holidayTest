@@ -55,7 +55,7 @@ public class Linklist {
         current = first;
         if (isempty())
         {
-            System.out.println("双端链表为空，无法删除");
+            System.out.println("双�?链表为空，无法删�?");
         }
         else
         {

@@ -1,50 +1,43 @@
-/*
- * @Author: HH.wangye 
- * @Date: 2018-01-18 09:23:43 
- * @Last Modified by:   HH.wangye 
- * @Last Modified time: 2018-01-18 09:23:43 
- */
-
-
-
-public class Stack
+public class stacksun
 {
+
     private int maxsize;
     private int top=-1;
-    int [] arraystack;
-    public Stack(int length)
+    char [] arraystack;
+    public stacksun(int length)
     {
         maxsize = length;
-        arraystack = new int [maxsize];
+        arraystack = new char [maxsize];
     }
-//½øÕ»
-    public void push(int value)
+    //ï¿½ï¿½Õ»
+    public void push(char value)
     {
-        //Õ»¶¥Ö¸ÕëÏÈÉÏÒÆ£¬È»ºó¸³Öµ
+        //Õ»ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ£ï¿½È»ï¿½ï¿½Öµ
         arraystack[++top] = value;
     }
-    public void pop()
+    public char pop()
     {
-        int value = arraystack[top--];
-        System.out.print(value); 
-    } 
+        char value = arraystack[top--];
+        return value;
+
+    }
     public boolean empty()
     {
         if(top==-1)
         {
-            System.out.print("ÄúµÄÕ»Îª¿Õ");
-            return true; 
+            System.out.print("ï¿½ï¿½ï¿½ï¿½Õ»Îªï¿½ï¿½");
+            return true;
         }
         else
         {
-            return false; 
+            return false;
         }
     }
     public void full()
     {
         if(top == maxsize-1)
         {
-            System.out.print("Õ»ÒÑ¾­Âú");
+            System.out.print("Õ»ï¿½Ñ¾ï¿½ï¿½ï¿½");
         }
     }
     public static void main(String [] argv)
@@ -59,6 +52,4 @@ public class Stack
             stack.pop();
         }
     }
-
-
 }
