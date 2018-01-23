@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681f0bd4-88e0-4dd5-a8b4-bd2f7a228d61" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构（java）/Stack/stacksun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构（java）/Stack/zifuchuan.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/.vscode/launch.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/BinarySearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/ShuangLink/Link.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/ShuangLink/Linklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/Stack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/linear_list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/link.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/link/link.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/link/linklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/linklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/listdelete.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/listinsert.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java算法/mergelist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/.vscode/launch.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/ShuangLink/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/ShuangLink/Linklist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/linear_list.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/link/link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/link/linklist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/listdelete.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/listinsert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/holidayTest/mergelist.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/holidayTest.iml" afterPath="$PROJECT_DIR$/holidayTest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/假期安排.txt" afterPath="$PROJECT_DIR$/假期安排.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +29,7 @@
       <file leaf-file-name="stacksun.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据结构（java）/Stack/stacksun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="500">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
@@ -66,8 +39,8 @@
       <file leaf-file-name="zifuchuan.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/数据结构（java）/Stack/zifuchuan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+            <state relative-caret-position="425">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -109,7 +82,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="698" />
     <option name="y" value="145" />
     <option name="width" value="496" />
@@ -130,7 +103,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,9 +128,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,30 +354,30 @@
       <workItem from="1516157311675" duration="7381000" />
       <workItem from="1516279432393" duration="2525000" />
       <workItem from="1516324972856" duration="1879000" />
+      <workItem from="1516361515058" duration="100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17451000" />
+    <option name="totallyTimeSpent" value="17551000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19772728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19772728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06330472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,6 +389,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -488,7 +462,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构（java）/Stack/stacksun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="500">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -496,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构（java）/Stack/zifuchuan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        <state relative-caret-position="425">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>
